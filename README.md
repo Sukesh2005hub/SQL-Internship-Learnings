@@ -15,7 +15,8 @@ This project demonstrates basic SQL operations using MySQL Workbench.
 
 ## 📂 Files
 - college_db.sql → Student table operations
-- employees_task.sql → Employee operations
+- employees_task.sql → Employee operation
+- filter_queries.sql  → Employee operation
 
 ## 🚀 Author
 Sukeshkrishna E
