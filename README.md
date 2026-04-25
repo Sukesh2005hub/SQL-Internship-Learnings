@@ -17,8 +17,9 @@ This project demonstrates basic SQL operations using MySQL Workbench.
 - college_db1.sql → Student table operations
 - employees_task.sql → Employee operation
 - filter_queries.sql  → Employee operation
+- aggregation_task.sql→ company operations
 - joins_practice.sql  → Joins operation
-- college_db_pracice.sql →college details 
+- college_db_pracice.sql → college details 
 
 ## 🚀 Author
 Sukeshkrishna E
